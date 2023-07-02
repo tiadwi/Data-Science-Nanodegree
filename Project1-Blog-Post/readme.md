@@ -25,6 +25,6 @@ There is one exploratory notebook available here to showcase my work related to 
 ## Medium Blog Post
 Data analysis and insights can be found in the Medium Blog post available [here](https://medium.com/@tiadwi.s/how-to-measure-the-diamonds-worth-ae7b92bf7ec5)
 
-## Licensing, Authors, and Acknowledgements
+## Acknowledgements
 * Data Source: [ggplot2 GitHub repository](https://github.com/tidyverse/ggplot2/blob/main/data-raw/diamonds.csv), developed by: Hadley Wickham, Winston Chang, Lionel Henry, Thomas Lin Pedersen, Kohske Takahashi, Claus Wilke, Kara Woo, Hiroaki Yutani, Dewey. Reference: [ggplot2.tidyverse.org Page about Diamond Dataset](https://ggplot2.tidyverse.org/reference/diamonds.html)
 * Acknowledgements: [Hasbi Al Muzdadid in Kaggle](https://www.kaggle.com/hasibalmuzdadid) for the helpful tutorial regarding the exploratory data analysis
